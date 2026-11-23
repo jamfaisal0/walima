@@ -1,0 +1,19 @@
+WALIMA INVITATION - GITHUB PAR LIVE KARNE KE STEPS
+==================================================
+
+Is folder mein: index.html, preview.jpg, assets/ (tasveerein + music), .nojekyll
+
+1) github.com par account banayein / login karein.
+2) Upar "+" > "New repository". Naam likhein (misal: walima). "Public" rakhein. Create dabayein.
+3) "uploading an existing file" par click karein. Is folder ki SAARI files drag karke daalein
+   (index.html, preview.jpg, .nojekyll aur poora assets folder). Computer se karna asaan hai.
+   Neeche "Commit changes" dabayein.
+4) Settings > Pages > "Deploy from a branch" > Branch: main, folder: / (root) > Save.
+5) 1-2 minute baad aap ka link yeh hoga:
+      https://AAPKA-USERNAME.github.io/AAPKE-REPO-KA-NAAM/
+6) (Yeh zip mein pehle se bhar diya gaya hai: jamfaisal0 / walima. Sirf tab karein jab username ya repo ka naam alag ho.)
+   index.html kholein (pencil icon) aur do jagah YOUR-USERNAME aur YOUR-REPO ko
+   apne username aur repo ke naam se badal dein (og:url aur og:image wali lines). Commit karein.
+   Yeh karne ke baad hi WhatsApp mein tasveer wali preview aayegi.
+7) Link WhatsApp par bhejein. Preview na aaye to link ke aakhir mein ?v=2 laga kar bhejein
+   (WhatsApp purani preview yaad rakhta hai).
